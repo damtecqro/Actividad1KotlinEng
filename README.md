@@ -1,4 +1,4 @@
-# Tarea 1 Introducción a Kotlin
+# Activity 1 Kotlin Introduction
 
 ## Objective
 
